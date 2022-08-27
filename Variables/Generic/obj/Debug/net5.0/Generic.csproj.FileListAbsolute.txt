@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\Generic.exe
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\Generic.deps.json
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\Generic.runtimeconfig.json
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\Generic.runtimeconfig.dev.json
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\Generic.dll
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\ref\Generic.dll
+C:\xampp\htdocs\Curso_C-\Variables\Generic\bin\Debug\net5.0\Generic.pdb
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.AssemblyInfo.cs
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.dll
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\ref\Generic.dll
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.pdb
+C:\xampp\htdocs\Curso_C-\Variables\Generic\obj\Debug\net5.0\Generic.genruntimeconfig.cache

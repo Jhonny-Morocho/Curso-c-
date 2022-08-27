@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobreEscrituraMetodos", "So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Static\Static.csproj", "{F0C39510-059E-44FA-8989-3CA1C7F96D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{B0AB4A14-72F7-46DC-BB46-9D1F08744281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{B0AB4A14-72F7-46DC-BB46-9D1F08744281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{32DEA8A0-654A-431D-809A-D266C4FE306D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B0AB4A14-72F7-46DC-BB46-9D1F08744281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0AB4A14-72F7-46DC-BB46-9D1F08744281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0AB4A14-72F7-46DC-BB46-9D1F08744281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DEA8A0-654A-431D-809A-D266C4FE306D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DEA8A0-654A-431D-809A-D266C4FE306D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DEA8A0-654A-431D-809A-D266C4FE306D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DEA8A0-654A-431D-809A-D266C4FE306D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
