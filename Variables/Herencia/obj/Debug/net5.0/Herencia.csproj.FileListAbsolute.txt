@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\Herencia.exe
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\Herencia.deps.json
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\Herencia.dll
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\ref\Herencia.dll
+C:\xampp\htdocs\Variables\Herencia\bin\Debug\net5.0\Herencia.pdb
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.dll
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\ref\Herencia.dll
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.pdb
+C:\xampp\htdocs\Variables\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\SobreEscrituraMetodos.exe
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\SobreEscrituraMetodos.deps.json
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\SobreEscrituraMetodos.runtimeconfig.json
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\SobreEscrituraMetodos.runtimeconfig.dev.json
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\SobreEscrituraMetodos.dll
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\ref\SobreEscrituraMetodos.dll
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\bin\Debug\net5.0\SobreEscrituraMetodos.pdb
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.AssemblyInfo.cs
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.dll
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\ref\SobreEscrituraMetodos.dll
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.pdb
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.genruntimeconfig.cache
+C:\xampp\htdocs\Variables\SobreEscrituraMetodos\obj\Debug\net5.0\SobreEscrituraMetodos.csproj.AssemblyReference.cache
