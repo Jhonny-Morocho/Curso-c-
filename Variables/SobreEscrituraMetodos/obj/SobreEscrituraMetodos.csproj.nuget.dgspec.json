@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj": {}
+    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj": {
+    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj",
         "projectName": "SobreEscrituraMetodos",
-        "projectPath": "C:\\xampp\\htdocs\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj",
         "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Variables\\SobreEscrituraMetodos\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

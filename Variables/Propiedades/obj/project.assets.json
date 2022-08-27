@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\Propiedades\\Propiedades.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Propiedades\\Propiedades.csproj",
       "projectName": "Propiedades",
-      "projectPath": "C:\\xampp\\htdocs\\Variables\\Propiedades\\Propiedades.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Propiedades\\Propiedades.csproj",
       "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Variables\\Propiedades\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Propiedades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

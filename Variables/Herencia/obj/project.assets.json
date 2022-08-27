@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\Herencia\\Herencia.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\Herencia.csproj",
       "projectName": "Herencia",
-      "projectPath": "C:\\xampp\\htdocs\\Variables\\Herencia\\Herencia.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\Herencia.csproj",
       "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Variables\\Herencia\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

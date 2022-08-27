@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj": {}
+    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj": {
+    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj",
         "projectName": "SetenciaIfElseIf",
-        "projectPath": "C:\\xampp\\htdocs\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SetenciaIfElseIf\\SetenciaIfElseIf.csproj",
         "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Variables\\SetenciaIfElseIf\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SetenciaIfElseIf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

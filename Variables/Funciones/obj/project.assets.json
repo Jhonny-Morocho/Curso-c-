@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\Funciones\\Funciones.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Funciones\\Funciones.csproj",
       "projectName": "Funciones",
-      "projectPath": "C:\\xampp\\htdocs\\Variables\\Funciones\\Funciones.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Funciones\\Funciones.csproj",
       "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Variables\\Funciones\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Funciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

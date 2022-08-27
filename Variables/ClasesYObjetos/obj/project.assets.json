@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\ClasesYObjetos\\ClasesYObjetos.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\ClasesYObjetos\\ClasesYObjetos.csproj",
       "projectName": "ClasesYObjetos",
-      "projectPath": "C:\\xampp\\htdocs\\Variables\\ClasesYObjetos\\ClasesYObjetos.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\ClasesYObjetos\\ClasesYObjetos.csproj",
       "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Variables\\ClasesYObjetos\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\ClasesYObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

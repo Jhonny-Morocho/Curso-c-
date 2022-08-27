@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\Herencia.csproj": {}
+    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\Herencia.csproj": {
+    "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\Herencia.csproj",
-        "projectName": "Herencia",
-        "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\Herencia.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Herencia\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

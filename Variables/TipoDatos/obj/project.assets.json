@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Variables\\TipoDatos\\TipoDatos.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\TipoDatos\\TipoDatos.csproj",
       "projectName": "TipoDatos",
-      "projectPath": "C:\\xampp\\htdocs\\Variables\\TipoDatos\\TipoDatos.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\TipoDatos\\TipoDatos.csproj",
       "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Variables\\TipoDatos\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\TipoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",

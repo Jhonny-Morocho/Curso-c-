@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj",
-      "projectName": "SobreEscrituraMetodos",
-      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\SobreEscrituraMetodos.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\Interface.csproj",
+      "projectName": "Interface",
+      "projectPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\Jhonny Morocho\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\SobreEscrituraMetodos\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Curso_C-\\Variables\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonny Morocho\\AppData\\Roaming\\NuGet\\NuGet.Config",
