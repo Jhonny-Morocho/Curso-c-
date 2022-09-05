@@ -12,6 +12,14 @@ namespace Json
             Console.WriteLine(json);
             Beer objBerr2 = JsonSerializer.Deserialize<Beer>(json);
             Console.WriteLine(objBerr2);
+            //json forma manal
+            string jsonManual="{\"Name\":\"Pilser\", \"Brand\": \"Erdinger\"}";
+             string jsonManualArray="[" +
+                                           "{\"Name\":\"Pilser\", \"Brand\": \"Erdinger\"}"+
+                                            "{\"Name\":\"Pilser\", \"Brand\": \"Erdinger\"}"+
+                                      "]";
+
+            Console.WriteLine(jsonManual);
 
         }
     }

@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.AssemblyInfo.cs
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\LISTAS.exe
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\LISTAS.deps.json
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\LISTAS.runtimeconfig.json
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\LISTAS.runtimeconfig.dev.json
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\LISTAS.dll
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\ref\LISTAS.dll
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\bin\Debug\net5.0\LISTAS.pdb
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.dll
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\ref\LISTAS.dll
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.pdb
+C:\xampp\htdocs\Curso_C-\Variables\LISTAS\obj\Debug\net5.0\LISTAS.genruntimeconfig.cache

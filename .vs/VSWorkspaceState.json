@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Variables",
+    "\\Variables\\Interface",
     "\\Variables\\Static"
   ],
-  "SelectedNode": "\\Variables\\Static\\Program.cs",
+  "SelectedNode": "\\Variables\\Interface\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
