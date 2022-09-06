@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ExepcionesPersonalizadas.exe
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ExepcionesPersonalizadas.deps.json
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ExepcionesPersonalizadas.runtimeconfig.json
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ExepcionesPersonalizadas.runtimeconfig.dev.json
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ExepcionesPersonalizadas.dll
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ref\ExepcionesPersonalizadas.dll
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\bin\Debug\net5.0\ExepcionesPersonalizadas.pdb
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.AssemblyInfo.cs
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.dll
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ref\ExepcionesPersonalizadas.dll
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.pdb
+C:\xampp\htdocs\Curso_C-\Variables\ExepcionesPersonalizadas\obj\Debug\net5.0\ExepcionesPersonalizadas.genruntimeconfig.cache
