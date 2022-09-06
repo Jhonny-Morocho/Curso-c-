@@ -8,15 +8,24 @@ namespace ExepcionesPersonalizadas
         {
             try 
             {
-                Beer objBeer = new Beer();
-                objBeer.Brand = "Fuller";
+                Beer objBeer = new Beer() { 
+                Name="London"
+                };
+                //objBeer.Brand = "Fuller";
                 Console.WriteLine(objBeer);
 
             }
-            catch (Exception e)
+            catch (InvalidBeerException e)
             {
                 Console.WriteLine(e.Message);
             }
+
+        }
+    }
+    class InvalidBeerException : Exception
+    {
+        public InvalidBeerException() : base("La carvesa no tiene nombre o marca")
+        {
 
         }
     }
@@ -28,8 +37,12 @@ namespace ExepcionesPersonalizadas
         public override string ToString()
         {
             if (Name == null || Brand == null)
-                throw new Exception();
+            
+                throw new InvalidBeerException();
+            
             return $"Cerveza: {Name },Brand: {Brand}";
+
+            
         }
 
 
