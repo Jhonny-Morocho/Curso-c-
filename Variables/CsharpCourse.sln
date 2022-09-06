@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LISTAS", "LISTAS\LISTAS.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{B8FCE7C5-423E-4492-87C6-81B24E00C7A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exepciones", "Exepciones\Exepciones.csproj", "{1221CBDB-74F6-47CD-AEBD-0E29DD2D98B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B8FCE7C5-423E-4492-87C6-81B24E00C7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8FCE7C5-423E-4492-87C6-81B24E00C7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8FCE7C5-423E-4492-87C6-81B24E00C7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1221CBDB-74F6-47CD-AEBD-0E29DD2D98B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1221CBDB-74F6-47CD-AEBD-0E29DD2D98B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1221CBDB-74F6-47CD-AEBD-0E29DD2D98B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1221CBDB-74F6-47CD-AEBD-0E29DD2D98B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
