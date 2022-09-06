@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Variables",
-    "\\Variables\\Interface",
+    "\\Variables\\Json",
     "\\Variables\\Static"
   ],
-  "SelectedNode": "\\Variables\\Interface\\Program.cs",
+  "SelectedNode": "\\Variables\\CsharpCourse.sln",
   "PreviewInSolutionExplorer": false
 }

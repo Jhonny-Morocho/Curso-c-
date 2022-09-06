@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\Tuplas.exe
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\Tuplas.deps.json
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.json
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.dev.json
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\Tuplas.dll
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\ref\Tuplas.dll
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\bin\Debug\net5.0\Tuplas.pdb
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfo.cs
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.dll
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\ref\Tuplas.dll
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.pdb
+C:\xampp\htdocs\Curso_C-\Variables\Tuplas\obj\Debug\net5.0\Tuplas.genruntimeconfig.cache
