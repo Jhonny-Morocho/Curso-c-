@@ -8,39 +8,53 @@ namespace LINQ
     {
         static void Main(string[] args)
         {
-            List<Beer> ListBeer = new List<Beer>() {
-                new Beer()
-                {
-                    Nombre="Brama",Pais="Brazil",
-                },
-                 new Beer()
-                {
-                    Nombre="Club",Pais="Ecuador",
-                },
-            };
-
-            Beer ObjCerveza1 = new Beer();
-            ObjCerveza1.Nombre = "Corna";
-            ObjCerveza1.Pais = "Mexico";
-
-            ListBeer.Add(ObjCerveza1);
-
-            foreach (var beer in ListBeer)
+            try
             {
-                Console.WriteLine(beer);
-               
+                List<Beer> ListBeer = new List<Beer>() 
+                {
+                    new Beer()
+                    {
+                        Nombre="Brama",Pais="Brazil",
+                    },
+                     new Beer()
+                    {
+                        Nombre="Club",Pais="Ecuador",
+                    },
+                };
+
+                Beer ObjCerveza1 = new Beer();
+                ObjCerveza1.Nombre = "Corna";
+                ObjCerveza1.Pais = "Mexico";
+
+                ListBeer.Add(ObjCerveza1);
+
+                foreach (var beer in ListBeer)
+                {
+                    Console.WriteLine(beer);
+
+                }
+                Console.WriteLine("================================");
+
+                //select
+                var beerName = from b in ListBeer select new { Name = b.Nombre, Letters = b.Nombre.Length };
+
+                foreach (var b in beerName)
+                {
+                    Console.WriteLine($"{b.Name} {b.Letters}");
+                }
+
+                Console.WriteLine("================================");
+                var beerEcuador = from b in ListBeer where b.Pais == "Ecuador" select b;
+                foreach (var b in beerEcuador)
+                {
+                    Console.WriteLine(b);
+                }
             }
-            Console.WriteLine("================================");
-
-
-            //select
-            var beerName = from b in ListBeer select new { Name=b.Nombre,Letters=b.Nombre.Length} ;
-
-            foreach (var b in beerName)
+            catch(Exception e)
             {
-                Console.WriteLine($"{b.Name} {b.Letters}");
+                Console.WriteLine("ERROR");
             }
-
+            
            
             
         }

@@ -5,7 +5,6 @@ C:\xampp\htdocs\Curso_C-\Variables\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.dev.
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\bin\Debug\net5.0\LINQ.dll
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\bin\Debug\net5.0\ref\LINQ.dll
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\bin\Debug\net5.0\LINQ.pdb
-C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.csproj.AssemblyReference.cache
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.dll
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\ref\LINQ.dll
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.pdb
 C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.genruntimeconfig.cache
+C:\xampp\htdocs\Curso_C-\Variables\LINQ\obj\Debug\net5.0\LINQ.csproj.AssemblyReference.cache
