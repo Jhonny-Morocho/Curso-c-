@@ -24,12 +24,13 @@ namespace CONEXION_BD
                     switch (op)
                     {
                         case 1:
-                            mostrarInformacion(ObjBeerDB);
+                            mostrarCervezas(ObjBeerDB);
                             break;
                         case 2:
                             agregarCerveza(ObjBeerDB);
                             break;
                         case 3:
+                            editarCerveza(ObjBeerDB);
                             break;
                         case 4:
                             break;
@@ -55,7 +56,7 @@ namespace CONEXION_BD
             Console.WriteLine("4. Eliminar");
             Console.WriteLine("5. Salir");
         }
-        public static void mostrarInformacion(BeerDB beerDB)
+        public static void mostrarCervezas(BeerDB beerDB)
 
         {
             Console.Clear();
@@ -64,7 +65,7 @@ namespace CONEXION_BD
             List<Beer> beers = beerDB.getAll();
             foreach (var beer in beers)
             {
-                Console.WriteLine($"{ beer.Id} : { beer.Nombre}");
+                Console.WriteLine($" [ Id: { beer.Id}]  [ Nombre : { beer.Nombre}]  [BrandId: {beer.Brand_Id}]");
             }
         }
         public static void agregarCerveza(BeerDB beerDB) {
@@ -79,6 +80,32 @@ namespace CONEXION_BD
 
             beerDB.add(objBeer);
 
+        }
+
+        public static void editarCerveza(BeerDB beerDB)
+        {
+            Console.Clear();
+            mostrarCervezas(beerDB);
+            Console.WriteLine("EDITAR CERVEZA");
+            Console.WriteLine("Escribe el ID de la cerveza a editar");
+            int id = int.Parse(Console.ReadLine());
+            //buscar la cerveza
+            Beer objBeer = beerDB.get(id);
+            if (objBeer!=null)
+            {
+                Console.WriteLine("Escribe el nombre de la cerveza: ");
+                string nombre = Console.ReadLine();
+                Console.WriteLine("Escribe brand_id de la cerveza: ");
+                int brand_id = int.Parse(Console.ReadLine());
+                objBeer.Nombre = nombre;
+                objBeer.Brand_Id = brand_id;
+                beerDB.edit(objBeer);
+
+            }
+            else
+            {
+                Console.WriteLine($"LA CERVEZA CON EL {id} no ha sido encontrad ");
+            }
         }
        
     }
