@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 namespace CONEXION_BD
 {
@@ -10,9 +11,13 @@ namespace CONEXION_BD
 
             try
             {
-                DB dbConexion = new DB(@"DESKTOP-CCMB5TR\SQLEXPRESS","curso_c_dev");
-                dbConexion.Connect();
-                dbConexion.Close();
+                BeerDB ObjBeerDB = new BeerDB(@"DESKTOP-CCMB5TR\SQLEXPRESS","curso_c_dev");
+                List<Beer> beers = ObjBeerDB.getAll();
+
+                foreach (var beer in beers)
+                {
+                    Console.WriteLine($"Id: { beer.Id} { beer.Nombre}");
+                }
 
             }
             catch (SqlException e)

@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 
 namespace CONEXION_BD
 {
-    class DB
+    public abstract class  DB
     {
+        //el privado solo le pertence a la clase
         private string _strConexion;
+
+
         protected SqlConnection _connection;
 
         public DB(string strServe,string db)
@@ -21,7 +24,6 @@ namespace CONEXION_BD
         {
             _connection = new SqlConnection(_strConexion);
             _connection.Open();
-            Console.WriteLine("CONEXION EXITOSA");
         }
         public void Close()
         {
