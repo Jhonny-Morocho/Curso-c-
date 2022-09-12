@@ -76,5 +76,15 @@ namespace CONEXION_BD
             Close();
             return objBeer;
         }
+        public void delete(int id)
+        {
+            Connect();
+            string query = "DELETE FROM beer where id=@id";
+            SqlCommand command = new SqlCommand(query,_connection);
+            command.Parameters.AddWithValue("@id",id);
+            command.ExecuteNonQuery();
+            Close();
+
+        }
     }
 }

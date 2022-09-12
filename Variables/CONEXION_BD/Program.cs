@@ -33,6 +33,7 @@ namespace CONEXION_BD
                             editarCerveza(ObjBeerDB);
                             break;
                         case 4:
+                            eliminarCerveza(ObjBeerDB);
                             break;
                         case 5:
                             again = false;
@@ -107,6 +108,25 @@ namespace CONEXION_BD
                 Console.WriteLine($"LA CERVEZA CON EL {id} no ha sido encontrad ");
             }
         }
-       
+
+        public static void eliminarCerveza(BeerDB beerDB)
+        {
+            Console.Clear();
+            mostrarCervezas(beerDB);
+            Console.WriteLine("Eliminar CERVEZA");
+            Console.WriteLine("Escribe el ID de la cerveza a editar");
+            int id = int.Parse(Console.ReadLine());
+            //buscar la cerveza
+            Beer objBeer = beerDB.get(id);
+            if (objBeer != null)
+            {
+                beerDB.delete(id);
+            }
+            else
+            {
+                Console.WriteLine($"LA CERVEZA CON EL {id} no ha sido encontrad ");
+            }
+        }
+
     }
 }
