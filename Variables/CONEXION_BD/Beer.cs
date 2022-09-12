@@ -11,13 +11,18 @@ namespace CONEXION_BD
         //variables de las tablas
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public int BrandId { get; set; }
+        public int Brand_Id { get; set; }
         //declarar construcotr
         public Beer(int id, string nombre,int brandId)
         {
             this.Id = id;
             this.Nombre = nombre;
-            this.BrandId = brandId;
+            this.Brand_Id = brandId;
+        }
+        public Beer(string nombre, int brandId)
+        {
+            this.Nombre = nombre;
+            this.Brand_Id = brandId;
         }
     }
 }
